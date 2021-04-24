@@ -1,0 +1,14 @@
+{
+    "python.testing.promptToConfigure": false,
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "restructuredtext.confPath": "",
+    "cSpell.ignoreWords": [
+        "genindex",
+        "gossage",
+        "maxdepth",
+        "quickstart",
+        "toctree"
+    ]
+}
