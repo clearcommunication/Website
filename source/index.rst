@@ -1,21 +1,23 @@
-.. Clear Communication Website documentation master file, created by
-   sphinx-quickstart on Sat Apr 17 17:26:00 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to Clear Communication Website documentation!
-=====================================================
+##############################################
+Welcome to the *Clear Communication*  web site
+##############################################
+.. The table of contents will show up in the navigation bar on the left hand
+   side of the page.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :hidden:
 
-   About
-   Participants
-   Principles
+   Reading This Document <readdocs> 
+   About The Community <About>
+   Who Are The Participants <Participants>
+   Guiding Principles <Principles>
 
+Building a viable future.
+
+******************
 Indices and tables
-==================
+******************
 
 * :ref:`genindex`
 * :ref:`search`
