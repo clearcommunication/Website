@@ -13,7 +13,7 @@ Welcome to the *Clear Communication*  web site
    Who Are The Participants <Participants>
    Guiding Principles <Principles>
 
-Building a viable future.
+Helping to build a viable future.
 
 ******************
 Indices and tables
